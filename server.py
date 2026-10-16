@@ -123,16 +123,16 @@ async def get_profile():
             },
             {
                 "id": "p4",
-                "title": "Atlas Maps SDK",
-                "year": "2023",
+                "title": "Nexmera - ResumeTailor",
+                "year": "2026",
                 "description": (
-                    "WebGL-powered mapping SDK with vector tiles, custom styling, "
-                    "and offline-first caching."
+                    "AI-powered SaaS application with resume tailoring, custom downloads, "
+                    "and subscription models."
                 ),
-                "stack": ["WebGL", "TypeScript", "Mapbox GL"],
+                "stack": ["React", "TypeScript", "Node", "Postgres"],
                 "image": "https://images.pexels.com/photos/12627677/pexels-photo-12627677.jpeg",
-                "live_url": "https://example.com",
-                "code_url": "https://github.com",
+                "live_url": "https://www.nexmera.com",
+                "code_url": "https://github.com/ndrhere/ResumeTailor-client",
             },
         ],
         "experience": [
